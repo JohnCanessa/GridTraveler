@@ -15,7 +15,7 @@ Recided to kill two birds with the same stone.
 If you are interested in my approach and comments
 I invite you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/05/27/grid-traveler-or-unique-paths/
 
 Keep in mind that one of the best ways to learn is to read and experiment.
 
